@@ -12,7 +12,7 @@ def pioneer
 end
 
 def id_generator
-  numbas = {:id ==> 42
+  numbas = {:id ==> 42}
   # return a hash with a key :id assigned to positive integer
 end
 
